@@ -1,2 +1,2 @@
 # transactions-in-sequelize
-There will be a hyperlink to the article here once it gets published
+https://www.topcoder.com/thrive/articles/managing-database-transactionsa-using-sequelize
